@@ -1,0 +1,7 @@
+{
+    "failed": "Failed",
+    "noItem": "You don't have a crowbar!",
+    "atm": "ATM Robbery",
+    "yougot": "You stole %s$",
+    "robnotify": "ATM Robbery"
+}
